@@ -1,0 +1,97 @@
+{
+  "owners" : [ {
+    "activity_level" : 0.2,
+    "name" : "David Cameron",
+    "party" : "conservative"
+  }, {
+    "activity_level" : 0.4,
+    "name" : "Jeremy Corbyn",
+    "party" : "labour"
+  }, {
+    "activity_level" : 0.3,
+    "name" : "Donald Trump",
+    "party" : "republican"
+  }, {
+    "activity_level" : 0.7,
+    "name" : "Barack Obama",
+    "party" : "democrat"
+  } ],
+  "pets" : [ {
+    "bio" : "",
+    "name" : "Detective Mittens",
+    "ownerKey" : "0",
+    "picture" : "http://media.steampowered.com/steamcommunity/public/images/avatars/04/0454cf4e905ec0b1efc6c645cd6dfdf11eb483be_full.jpg",
+    "size" : {
+      "diameter" : "15cm",
+      "length" : "65cm",
+      "weight" : "8kg"
+    },
+    "species" : "cat"
+  }, {
+    "bio" : "",
+    "name" : "Snuffy The Terrible",
+    "ownerKey" : "0",
+    "picture" : "\t https://s3-eu-west-1.amazonaws.com/firestation/img_1407.jpg",
+    "size" : {
+      "diameter" : "30cm",
+      "length" : "80cm",
+      "weight" : "17kg"
+    },
+    "species" : "cat"
+  }, {
+    "bio" : "",
+    "name" : "Freddie The Brown",
+    "ownerKey" : "1",
+    "picture" : "https://drscdn.500px.org/photo/53378124/q%3D80_h%3D450/41c52538dfd4c7bdcae655a38441f236",
+    "size" : {
+      "diameter" : "46cm",
+      "length" : "80cm",
+      "weight" : "30kg"
+    },
+    "species" : "dog"
+  }, {
+    "bio" : "",
+    "name" : "Brad Kitt",
+    "ownerKey" : "2",
+    "picture" : "https://s3-eu-west-1.amazonaws.com/firestation/bradkitt.jpg",
+    "size" : {
+      "diameter" : "17cm",
+      "length" : "65cm",
+      "weight" : "9kg"
+    },
+    "species" : "cat"
+  }, {
+    "bio" : "",
+    "name" : "Chairman Meow",
+    "ownerKey" : "2",
+    "picture" : "http://orig14.deviantart.net/5331/f/2013/154/c/7/chairman_meow_by_haedphone-d67nrj8.png",
+    "size" : {
+      "diameter" : "13cm",
+      "length" : "45cm",
+      "weight" : "8kg"
+    },
+    "species" : "cat"
+  }, {
+    "bio" : "",
+    "name" : "Snoop Lion",
+    "ownerKey" : "3",
+    "picture" : "http://afrogle.com/wp-content/uploads/2013/05/snoop-lion-literally.jpg",
+    "size" : {
+      "diameter" : "27cm",
+      "length" : "90cm",
+      "weight" : "24kg"
+    },
+    "species" : "dog"
+  }, {
+    "bio" : "",
+    "name" : "The Puffincat",
+    "ownerKey" : "0",
+    "picture" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/41/41ee76cad5b6c10872008ce64eb787eab9ea9630_full.jpg",
+    "size" : {
+      "diameter" : "22cm",
+      "length" : "77cm",
+      "weight" : "21cm"
+    },
+    "species" : "cat"
+  } ]
+}
