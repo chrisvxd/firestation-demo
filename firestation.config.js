@@ -44,8 +44,7 @@ export default {
                 {
                     key: 'size.weight',
                     title: 'Weight',
-                    cell: TextCell,
-                    canWrite: true
+                    cell: TextCell
                 },
                 {
                     key: 'owner.name',
